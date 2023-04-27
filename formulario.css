@@ -38,9 +38,8 @@ input, select, textarea, button {
 }
 
 .campo label {
-    margin-bottom: 0.2em;
+    margin-bottom: 2em;
     color: #59429d;
-    display: block;
 }
 
 fieldset .grupo .campo {
@@ -73,9 +72,9 @@ fieldset .grupo .campo {
     box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
     text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
     position: absolute;
-    top: 140%;
+    top: 95%;
     left: 50%;
-    margin-right: -auto;
+    margin-right: -50;
     transform: translate(-50%, -50%);
 }
 
